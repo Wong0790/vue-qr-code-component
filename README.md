@@ -1,6 +1,45 @@
-# vue-qr-code-component
+# Frontend Mentor - vue-qr-code-component
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) using Vue 3 in Vite.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Recommended IDE Setup](#recommended-ide-setup)
+- [Customize configuration](#customize-configuration)
+- [Project Setup](#project-setup)
+- [Compile and Hot-Reload for Development](#compile-and-hot-reload-for-development)
+- [Compile and Minify for Production](#compile-and-minify-for-production)
+
+## Overview
+
+### Screenshot
+
+![Alt text](image.png)
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Mobile-first workflow
+- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
+- [Vue 3](https://vuejs.org/) - JS framework
+
+## Author
+
+- Website - [Anneris Eloisa Wong Jorge](https://www.your-site.com)
+- Frontend Mentor - [@Wong0790](https://www.frontendmentor.io/profile/Wong0790)
+- Linkedin - [Anneris Wong Jorge](www.linkedin.com/in/anneris-wong-jorge-257948104)
 
 ## Recommended IDE Setup
 
