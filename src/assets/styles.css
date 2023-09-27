@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  @apply max-w-[1280px] my-0 mx-auto p-8 font-normal;
+}
+
+body {
+  @apply grid h-screen place-items-center bg-[#D5E1EF] text-[#262D47];
+}
+
+.qr-wrapper {
+  @apply bg-white w-10/12 m-auto p-5 rounded-2xl md:w-2/4;
+}
+
+.qr-img {
+  @apply rounded-2xl;
+}
+
+h1 {
+  @apply text-xl font-bold text-center mt-5;
+}
+
+.small-description {
+  @apply mx-auto text-center my-5 text-slate-500 text-sm max-w-[250px];
+}
